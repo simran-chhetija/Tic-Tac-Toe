@@ -7,3 +7,5 @@ Prerequisites - Use any Python online compiler of download python IDE from https
 How to Run?
 
 Just run - python tic_tac_toe.py
+
+ER Diagram - ![image](https://user-images.githubusercontent.com/41295527/120666827-8896ca00-c4aa-11eb-9722-e9fb34601a59.png)
